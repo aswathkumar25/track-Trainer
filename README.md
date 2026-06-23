@@ -3,6 +3,8 @@
 A modern, premium SaaS-style offline-first Attendance Management System designed for training institutes. The platform features responsive analytics, student/trainer profiles, active session trackers, and interactive calendar logs, styled with a sleek dark-first design system.
 
 ---
+## live server - https://startling-halva-8e877b.netlify.app/ 
+---
 
 ## 🚀 Features & Modules
 
